@@ -19,8 +19,8 @@ Please consider looking at the list below and take use of GitHub's [**search too
 
 ### Links
 - [Download in Play Store](https://play.google.com/store/apps/details?id=com.nishantchaudhary.tiltedarrestaurant "Play Store")
-- [Twitter](https://twitter.com/code_krta_hu)
 - [Introduction to the App](https://youtu.be/BwzEokkE6iU)
+- [Twitter](https://twitter.com/code_krta_hu)
 - [LinkedIn](https://www.linkedin.com/in/nishantchaudhary98/)
 
 Have fun :)
