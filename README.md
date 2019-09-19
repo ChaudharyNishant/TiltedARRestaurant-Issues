@@ -14,7 +14,7 @@ Please consider looking at the list below and take use of GitHub's [**search too
 
 ### Most occurring issues
 <ul>
-  <li><a href="https://github.com/ChaudharyNishant/TiltedARRestaurant-Issues/issues/2">App takes much time opening or closing AR Showcase</a></li>
+  <li><a href="https://github.com/ChaudharyNishant/TiltedARRestaurant-Issues/issues/2">App takes much time opening or closing AR Showcase</a> (Fixed with v0.5.0)</li>
 </ul>
 
 ### Links
